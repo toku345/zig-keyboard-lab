@@ -4,7 +4,11 @@
     "dictionaryDefinitions": [],
     "dictionaries": [],
     "words": [
-        "microzig"
+        "blinky",
+        "microzig",
+        "pico",
+        "raspberrypi",
+        "Waveshare"
     ],
     "ignoreWords": [],
     "import": []
